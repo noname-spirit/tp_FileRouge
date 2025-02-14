@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+}
+
+
+/* ca permet que que main prend toute la diffence d'espace entre header et footer  */
+main{
+    flex: 1;
+}
